@@ -1,0 +1,6 @@
+{
+  "name": "Detecting Abnormal Bone Fracture Using SPECT Images",
+  "description": "Medical research dashboard and PyTorch ResNet-18 pipeline for detecting abnormal bone fracture in SPECT scintigraphy images with Grad-CAM explainability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
